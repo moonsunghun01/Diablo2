@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\msh66\desktop\디아블로\작업\_오류작업</FILEPATH>
+      <FILENAME>item.h</FILENAME>
+      <LINE>86</LINE>
+      <COLUMN>0</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'item::_weapon' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>item::{ctor}</FUNCTION>
+    <DECORATED>??0item@@QAE@XZ</DECORATED>
+    <FUNCLINE>86</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\msh66\desktop\디아블로\작업\_오류작업</FILEPATH>
+      <FILENAME>item.h</FILENAME>
+      <LINE>86</LINE>
+      <COLUMN>0</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'item::_shield' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>item::{ctor}</FUNCTION>
+    <DECORATED>??0item@@QAE@XZ</DECORATED>
+    <FUNCLINE>86</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\msh66\desktop\디아블로\작업\_오류작업</FILEPATH>
+      <FILENAME>item.h</FILENAME>
+      <LINE>86</LINE>
+      <COLUMN>0</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'item::_shopShield' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>item::{ctor}</FUNCTION>
+    <DECORATED>??0item@@QAE@XZ</DECORATED>
+    <FUNCLINE>86</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\msh66\desktop\디아블로\작업\_오류작업</FILEPATH>
+      <FILENAME>item.h</FILENAME>
+      <LINE>86</LINE>
+      <COLUMN>0</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'item::_shopWeapon' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>item::{ctor}</FUNCTION>
+    <DECORATED>??0item@@QAE@XZ</DECORATED>
+    <FUNCLINE>86</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\msh66\desktop\디아블로\작업\_오류작업</FILEPATH>
+      <FILENAME>item.h</FILENAME>
+      <LINE>86</LINE>
+      <COLUMN>0</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'item::_shopHpPotion' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>item::{ctor}</FUNCTION>
+    <DECORATED>??0item@@QAE@XZ</DECORATED>
+    <FUNCLINE>86</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\msh66\desktop\디아블로\작업\_오류작업</FILEPATH>
+      <FILENAME>item.h</FILENAME>
+      <LINE>86</LINE>
+      <COLUMN>0</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'item::_shopMpPotion' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>item::{ctor}</FUNCTION>
+    <DECORATED>??0item@@QAE@XZ</DECORATED>
+    <FUNCLINE>86</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\msh66\desktop\디아블로\작업\_오류작업</FILEPATH>
+      <FILENAME>item.h</FILENAME>
+      <LINE>86</LINE>
+      <COLUMN>0</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'item::_itemKind' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>item::{ctor}</FUNCTION>
+    <DECORATED>??0item@@QAE@XZ</DECORATED>
+    <FUNCLINE>86</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

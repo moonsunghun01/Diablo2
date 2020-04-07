@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\msh66\desktop\디아블로\작업\_오류작업</FILEPATH>
+      <FILENAME>timer.cpp</FILENAME>
+      <LINE>8</LINE>
+      <COLUMN>7</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'timer::_worldTime' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>timer::{ctor}</FUNCTION>
+    <DECORATED>??0timer@@QAE@XZ</DECORATED>
+    <FUNCLINE>8</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\msh66\desktop\디아블로\작업\_오류작업</FILEPATH>
+      <FILENAME>timer.cpp</FILENAME>
+      <LINE>8</LINE>
+      <COLUMN>7</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'timer::_FPStimeElapsed' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>timer::{ctor}</FUNCTION>
+    <DECORATED>??0timer@@QAE@XZ</DECORATED>
+    <FUNCLINE>8</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\msh66\desktop\디아블로\작업\_오류작업</FILEPATH>
+      <FILENAME>timer.cpp</FILENAME>
+      <LINE>8</LINE>
+      <COLUMN>7</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'timer::_FPSFrameCount' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>timer::{ctor}</FUNCTION>
+    <DECORATED>??0timer@@QAE@XZ</DECORATED>
+    <FUNCLINE>8</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\msh66\desktop\디아블로\작업\_오류작업</FILEPATH>
+      <FILENAME>timer.cpp</FILENAME>
+      <LINE>8</LINE>
+      <COLUMN>7</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'timer::_frameRate' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>timer::{ctor}</FUNCTION>
+    <DECORATED>??0timer@@QAE@XZ</DECORATED>
+    <FUNCLINE>8</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\msh66\desktop\디아블로\작업\_오류작업</FILEPATH>
+      <FILENAME>timer.cpp</FILENAME>
+      <LINE>8</LINE>
+      <COLUMN>7</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'timer::_periodFrequency' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>timer::{ctor}</FUNCTION>
+    <DECORATED>??0timer@@QAE@XZ</DECORATED>
+    <FUNCLINE>8</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\msh66\desktop\디아블로\작업\_오류작업</FILEPATH>
+      <FILENAME>timer.cpp</FILENAME>
+      <LINE>8</LINE>
+      <COLUMN>7</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'timer::_timeScale' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>timer::{ctor}</FUNCTION>
+    <DECORATED>??0timer@@QAE@XZ</DECORATED>
+    <FUNCLINE>8</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\msh66\desktop\디아블로\작업\_오류작업</FILEPATH>
+      <FILENAME>timer.cpp</FILENAME>
+      <LINE>8</LINE>
+      <COLUMN>7</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'timer::_lastTime' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>timer::{ctor}</FUNCTION>
+    <DECORATED>??0timer@@QAE@XZ</DECORATED>
+    <FUNCLINE>8</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\msh66\desktop\디아블로\작업\_오류작업</FILEPATH>
+      <FILENAME>timer.cpp</FILENAME>
+      <LINE>8</LINE>
+      <COLUMN>7</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'timer::_isHardware' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>timer::{ctor}</FUNCTION>
+    <DECORATED>??0timer@@QAE@XZ</DECORATED>
+    <FUNCLINE>8</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\msh66\desktop\디아블로\작업\_오류작업</FILEPATH>
+      <FILENAME>timer.cpp</FILENAME>
+      <LINE>8</LINE>
+      <COLUMN>7</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'timer::_curTime' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>timer::{ctor}</FUNCTION>
+    <DECORATED>??0timer@@QAE@XZ</DECORATED>
+    <FUNCLINE>8</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\msh66\desktop\디아블로\작업\_오류작업</FILEPATH>
+      <FILENAME>timer.cpp</FILENAME>
+      <LINE>8</LINE>
+      <COLUMN>7</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'timer::_timeElapsed' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>timer::{ctor}</FUNCTION>
+    <DECORATED>??0timer@@QAE@XZ</DECORATED>
+    <FUNCLINE>8</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

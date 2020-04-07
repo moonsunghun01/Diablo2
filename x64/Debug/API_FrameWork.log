@@ -1,0 +1,172 @@
+﻿  stdafx.cpp
+c:\users\msh66\downloads\api_framework_17_1아이소메트릭and타일\api_framework_17_1아이소메트릭and타일\image.h(138): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  airHockey.cpp
+c:\users\msh66\downloads\api_framework_17_1아이소메트릭and타일\api_framework_17_1아이소메트릭and타일\airhockey.cpp(24): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\msh66\downloads\api_framework_17_1아이소메트릭and타일\api_framework_17_1아이소메트릭and타일\airhockey.cpp(30): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\msh66\downloads\api_framework_17_1아이소메트릭and타일\api_framework_17_1아이소메트릭and타일\airhockey.cpp(35): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\msh66\downloads\api_framework_17_1아이소메트릭and타일\api_framework_17_1아이소메트릭and타일\airhockey.cpp(74): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\msh66\downloads\api_framework_17_1아이소메트릭and타일\api_framework_17_1아이소메트릭and타일\airhockey.cpp(80): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\msh66\downloads\api_framework_17_1아이소메트릭and타일\api_framework_17_1아이소메트릭and타일\airhockey.cpp(122): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\msh66\downloads\api_framework_17_1아이소메트릭and타일\api_framework_17_1아이소메트릭and타일\airhockey.cpp(125): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\msh66\downloads\api_framework_17_1아이소메트릭and타일\api_framework_17_1아이소메트릭and타일\airhockey.cpp(129): error C2664: 'BOOL TextOutW(HDC,int,int,LPCWSTR,int)': 인수 4을(를) 'char [64]'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+  c:\users\msh66\downloads\api_framework_17_1아이소메트릭and타일\api_framework_17_1아이소메트릭and타일\airhockey.cpp(129): note: 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+c:\users\msh66\downloads\api_framework_17_1아이소메트릭and타일\api_framework_17_1아이소메트릭and타일\airhockey.cpp(131): error C2664: 'BOOL TextOutW(HDC,int,int,LPCWSTR,int)': 인수 4을(를) 'char [64]'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+  c:\users\msh66\downloads\api_framework_17_1아이소메트릭and타일\api_framework_17_1아이소메트릭and타일\airhockey.cpp(131): note: 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+c:\users\msh66\downloads\api_framework_17_1아이소메트릭and타일\api_framework_17_1아이소메트릭and타일\airhockey.cpp(160): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\msh66\downloads\api_framework_17_1아이소메트릭and타일\api_framework_17_1아이소메트릭and타일\airhockey.cpp(167): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\msh66\downloads\api_framework_17_1아이소메트릭and타일\api_framework_17_1아이소메트릭and타일\airhockey.cpp(172): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\msh66\downloads\api_framework_17_1아이소메트릭and타일\api_framework_17_1아이소메트릭and타일\airhockey.cpp(178): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\msh66\downloads\api_framework_17_1아이소메트릭and타일\api_framework_17_1아이소메트릭and타일\airhockey.cpp(184): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  animation.cpp
+  animationManager.cpp
+  animationTest.cpp
+  bullet.cpp
+c:\users\msh66\downloads\api_framework_17_1아이소메트릭and타일\api_framework_17_1아이소메트릭and타일\bullet.cpp(57): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\msh66\downloads\api_framework_17_1아이소메트릭and타일\api_framework_17_1아이소메트릭and타일\bullet.cpp(75): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\msh66\downloads\api_framework_17_1아이소메트릭and타일\api_framework_17_1아이소메트릭and타일\bullet.cpp(147): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\msh66\downloads\api_framework_17_1아이소메트릭and타일\api_framework_17_1아이소메트릭and타일\bullet.cpp(163): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\msh66\downloads\api_framework_17_1아이소메트릭and타일\api_framework_17_1아이소메트릭and타일\bullet.cpp(233): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\msh66\downloads\api_framework_17_1아이소메트릭and타일\api_framework_17_1아이소메트릭and타일\bullet.cpp(244): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  camel.cpp
+c:\users\msh66\downloads\api_framework_17_1아이소메트릭and타일\api_framework_17_1아이소메트릭and타일\camel.cpp(37): error C2664: 'void animationManager::addDefAnimation(std::string,char *,int,bool,bool)': 인수 2을(를) 'const char [6]'에서 'char *'(으)로 변환할 수 없습니다.
+  c:\users\msh66\downloads\api_framework_17_1아이소메트릭and타일\api_framework_17_1아이소메트릭and타일\camel.cpp(37): note: 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+c:\users\msh66\downloads\api_framework_17_1아이소메트릭and타일\api_framework_17_1아이소메트릭and타일\camel.cpp(40): error C2664: 'void animationManager::addAnimation(std::string,char *,int,int,int,bool,bool)': 인수 2을(를) 'const char [6]'에서 'char *'(으)로 변환할 수 없습니다.
+  c:\users\msh66\downloads\api_framework_17_1아이소메트릭and타일\api_framework_17_1아이소메트릭and타일\camel.cpp(40): note: 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+c:\users\msh66\downloads\api_framework_17_1아이소메트릭and타일\api_framework_17_1아이소메트릭and타일\camel.cpp(42): error C2664: 'void animationManager::addAnimation(std::string,char *,int,int,int,bool,bool)': 인수 2을(를) 'const char [6]'에서 'char *'(으)로 변환할 수 없습니다.
+  c:\users\msh66\downloads\api_framework_17_1아이소메트릭and타일\api_framework_17_1아이소메트릭and타일\camel.cpp(42): note: 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+  effect.cpp
+  effectManager.cpp
+  effectTest.cpp
+c:\users\msh66\downloads\api_framework_17_1아이소메트릭and타일\api_framework_17_1아이소메트릭and타일\effecttest.cpp(28): error C2664: 'void effectManager::addEffect(std::string,char *,int,int,int,int,int,float,int)': 인수 2을(를) 'const char [21]'에서 'char *'(으)로 변환할 수 없습니다.
+  c:\users\msh66\downloads\api_framework_17_1아이소메트릭and타일\api_framework_17_1아이소메트릭and타일\effecttest.cpp(28): note: 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+c:\users\msh66\downloads\api_framework_17_1아이소메트릭and타일\api_framework_17_1아이소메트릭and타일\effecttest.cpp(29): error C2664: 'void effectManager::addEffect(std::string,char *,int,int,int,int,int,float,int)': 인수 2을(를) 'const char [22]'에서 'char *'(으)로 변환할 수 없습니다.
+  c:\users\msh66\downloads\api_framework_17_1아이소메트릭and타일\api_framework_17_1아이소메트릭and타일\effecttest.cpp(29): note: 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+  enemy.cpp
+  enemyManager.cpp
+c:\users\msh66\downloads\api_framework_17_1아이소메트릭and타일\api_framework_17_1아이소메트릭and타일\enemymanager.cpp(19): error C2664: 'HRESULT bullet::init(char *,int,float)': 인수 1을(를) 'const char [7]'에서 'char *'(으)로 변환할 수 없습니다.
+  c:\users\msh66\downloads\api_framework_17_1아이소메트릭and타일\api_framework_17_1아이소메트릭and타일\enemymanager.cpp(19): note: 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+c:\users\msh66\downloads\api_framework_17_1아이소메트릭and타일\api_framework_17_1아이소메트릭and타일\enemymanager.cpp(86): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\msh66\downloads\api_framework_17_1아이소메트릭and타일\api_framework_17_1아이소메트릭and타일\enemymanager.cpp(85): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\msh66\downloads\api_framework_17_1아이소메트릭and타일\api_framework_17_1아이소메트릭and타일\enemymanager.cpp(84): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  gameNode.cpp
+  image.cpp
+c:\users\msh66\downloads\api_framework_17_1아이소메트릭and타일\api_framework_17_1아이소메트릭and타일\image.cpp(98): error C2664: 'HANDLE LoadImageW(HINSTANCE,LPCWSTR,UINT,int,int,UINT)': 인수 2을(를) 'const char *'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+  c:\users\msh66\downloads\api_framework_17_1아이소메트릭and타일\api_framework_17_1아이소메트릭and타일\image.cpp(102): note: 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+c:\users\msh66\downloads\api_framework_17_1아이소메트릭and타일\api_framework_17_1아이소메트릭and타일\image.cpp(108): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\msh66\downloads\api_framework_17_1아이소메트릭and타일\api_framework_17_1아이소메트릭and타일\image.cpp(160): error C2664: 'HANDLE LoadImageW(HINSTANCE,LPCWSTR,UINT,int,int,UINT)': 인수 2을(를) 'const char *'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+  c:\users\msh66\downloads\api_framework_17_1아이소메트릭and타일\api_framework_17_1아이소메트릭and타일\image.cpp(160): note: 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+c:\users\msh66\downloads\api_framework_17_1아이소메트릭and타일\api_framework_17_1아이소메트릭and타일\image.cpp(167): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\msh66\downloads\api_framework_17_1아이소메트릭and타일\api_framework_17_1아이소메트릭and타일\image.cpp(220): error C2664: 'HANDLE LoadImageW(HINSTANCE,LPCWSTR,UINT,int,int,UINT)': 인수 2을(를) 'const char *'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+  c:\users\msh66\downloads\api_framework_17_1아이소메트릭and타일\api_framework_17_1아이소메트릭and타일\image.cpp(225): note: 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+c:\users\msh66\downloads\api_framework_17_1아이소메트릭and타일\api_framework_17_1아이소메트릭and타일\image.cpp(236): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\msh66\downloads\api_framework_17_1아이소메트릭and타일\api_framework_17_1아이소메트릭and타일\image.cpp(289): error C2664: 'HANDLE LoadImageW(HINSTANCE,LPCWSTR,UINT,int,int,UINT)': 인수 2을(를) 'const char *'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+  c:\users\msh66\downloads\api_framework_17_1아이소메트릭and타일\api_framework_17_1아이소메트릭and타일\image.cpp(294): note: 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+c:\users\msh66\downloads\api_framework_17_1아이소메트릭and타일\api_framework_17_1아이소메트릭and타일\image.cpp(308): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\msh66\downloads\api_framework_17_1아이소메트릭and타일\api_framework_17_1아이소메트릭and타일\image.cpp(718): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\msh66\downloads\api_framework_17_1아이소메트릭and타일\api_framework_17_1아이소메트릭and타일\image.cpp(723): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\msh66\downloads\api_framework_17_1아이소메트릭and타일\api_framework_17_1아이소메트릭and타일\image.cpp(730): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  imageManager.cpp
+  IsoMap.cpp
+c:\users\msh66\downloads\api_framework_17_1아이소메트릭and타일\api_framework_17_1아이소메트릭and타일\isomap.cpp(127): error C2664: 'BOOL TextOutW(HDC,int,int,LPCWSTR,int)': 인수 4을(를) 'char [128]'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+  c:\users\msh66\downloads\api_framework_17_1아이소메트릭and타일\api_framework_17_1아이소메트릭and타일\isomap.cpp(127): note: 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+c:\users\msh66\downloads\api_framework_17_1아이소메트릭and타일\api_framework_17_1아이소메트릭and타일\isomap.cpp(174): error C2664: 'BOOL TextOutW(HDC,int,int,LPCWSTR,int)': 인수 4을(를) 'char [128]'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+  c:\users\msh66\downloads\api_framework_17_1아이소메트릭and타일\api_framework_17_1아이소메트릭and타일\isomap.cpp(176): note: 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+  keyManager.cpp
+  loading.cpp
+c:\users\msh66\downloads\api_framework_17_1아이소메트릭and타일\api_framework_17_1아이소메트릭and타일\loading.cpp(41): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\msh66\downloads\api_framework_17_1아이소메트릭and타일\api_framework_17_1아이소메트릭and타일\loading.cpp(42): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\msh66\downloads\api_framework_17_1아이소메트릭and타일\api_framework_17_1아이소메트릭and타일\loading.cpp(76): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\msh66\downloads\api_framework_17_1아이소메트릭and타일\api_framework_17_1아이소메트릭and타일\loading.cpp(77): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\msh66\downloads\api_framework_17_1아이소메트릭and타일\api_framework_17_1아이소메트릭and타일\loading.cpp(99): error C2664: 'HRESULT progressBar::init(char *,char *,float,float,int,int)': 인수 1을(를) 'const char [28]'에서 'char *'(으)로 변환할 수 없습니다.
+  c:\users\msh66\downloads\api_framework_17_1아이소메트릭and타일\api_framework_17_1아이소메트릭and타일\loading.cpp(99): note: 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+c:\users\msh66\downloads\api_framework_17_1아이소메트릭and타일\api_framework_17_1아이소메트릭and타일\loading.cpp(181): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\msh66\downloads\api_framework_17_1아이소메트릭and타일\api_framework_17_1아이소메트릭and타일\loading.cpp(187): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\msh66\downloads\api_framework_17_1아이소메트릭and타일\api_framework_17_1아이소메트릭and타일\loading.cpp(193): warning C4244: '인수': 'unsigned __int64'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\msh66\downloads\api_framework_17_1아이소메트릭and타일\api_framework_17_1아이소메트릭and타일\loading.cpp(193): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  mainGame.cpp
+  minimap.cpp
+c:\users\msh66\downloads\api_framework_17_1아이소메트릭and타일\api_framework_17_1아이소메트릭and타일\minimap.cpp(20): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\msh66\downloads\api_framework_17_1아이소메트릭and타일\api_framework_17_1아이소메트릭and타일\minimap.cpp(104): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\msh66\downloads\api_framework_17_1아이소메트릭and타일\api_framework_17_1아이소메트릭and타일\minimap.cpp(111): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  minion.cpp
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  progressBar.cpp
+c:\users\msh66\downloads\api_framework_17_1아이소메트릭and타일\api_framework_17_1아이소메트릭and타일\progressbar.cpp(14): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\msh66\downloads\api_framework_17_1아이소메트릭and타일\api_framework_17_1아이소메트릭and타일\progressbar.cpp(15): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\msh66\downloads\api_framework_17_1아이소메트릭and타일\api_framework_17_1아이소메트릭and타일\progressbar.cpp(17): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\msh66\downloads\api_framework_17_1아이소메트릭and타일\api_framework_17_1아이소메트릭and타일\progressbar.cpp(53): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  rocket.cpp
+c:\users\msh66\downloads\api_framework_17_1아이소메트릭and타일\api_framework_17_1아이소메트릭and타일\rocket.cpp(32): error C2664: 'HRESULT progressBar::init(char *,char *,float,float,int,int)': 인수 1을(를) 'const char [28]'에서 'char *'(으)로 변환할 수 없습니다.
+  c:\users\msh66\downloads\api_framework_17_1아이소메트릭and타일\api_framework_17_1아이소메트릭and타일\rocket.cpp(32): note: 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+c:\users\msh66\downloads\api_framework_17_1아이소메트릭and타일\api_framework_17_1아이소메트릭and타일\rocket.cpp(113): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\msh66\downloads\api_framework_17_1아이소메트릭and타일\api_framework_17_1아이소메트릭and타일\rocket.cpp(114): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\msh66\downloads\api_framework_17_1아이소메트릭and타일\api_framework_17_1아이소메트릭and타일\rocket.cpp(123): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\msh66\downloads\api_framework_17_1아이소메트릭and타일\api_framework_17_1아이소메트릭and타일\rocket.cpp(124): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\msh66\downloads\api_framework_17_1아이소메트릭and타일\api_framework_17_1아이소메트릭and타일\rocket.cpp(125): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\msh66\downloads\api_framework_17_1아이소메트릭and타일\api_framework_17_1아이소메트릭and타일\rocket.cpp(126): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\msh66\downloads\api_framework_17_1아이소메트릭and타일\api_framework_17_1아이소메트릭and타일\rocket.cpp(128): error C2664: 'void txtData::txtSave(char *,std::vector<std::string,std::allocator<_Ty>>)': 인수 1을(를) 'const char [20]'에서 'char *'(으)로 변환할 수 없습니다.
+          with
+          [
+              _Ty=std::string
+          ]
+  c:\users\msh66\downloads\api_framework_17_1아이소메트릭and타일\api_framework_17_1아이소메트릭and타일\rocket.cpp(128): note: 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+c:\users\msh66\downloads\api_framework_17_1아이소메트릭and타일\api_framework_17_1아이소메트릭and타일\rocket.cpp(132): error C2664: 'std::vector<std::string,std::allocator<_Ty>> txtData::txtLoad(char *)': 인수 1을(를) 'const char [20]'에서 'char *'(으)로 변환할 수 없습니다.
+          with
+          [
+              _Ty=std::string
+          ]
+  c:\users\msh66\downloads\api_framework_17_1아이소메트릭and타일\api_framework_17_1아이소메트릭and타일\rocket.cpp(132): note: 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+c:\users\msh66\downloads\api_framework_17_1아이소메트릭and타일\api_framework_17_1아이소메트릭and타일\rocket.cpp(134): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\msh66\downloads\api_framework_17_1아이소메트릭and타일\api_framework_17_1아이소메트릭and타일\rocket.cpp(135): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\msh66\downloads\api_framework_17_1아이소메트릭and타일\api_framework_17_1아이소메트릭and타일\rocket.cpp(136): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\msh66\downloads\api_framework_17_1아이소메트릭and타일\api_framework_17_1아이소메트릭and타일\rocket.cpp(137): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\msh66\downloads\api_framework_17_1아이소메트릭and타일\api_framework_17_1아이소메트릭and타일\rocket.cpp(143): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  sceneManager.cpp
+  soundManager.cpp
+c:\users\msh66\downloads\api_framework_17_1아이소메트릭and타일\api_framework_17_1아이소메트릭and타일\soundmanager.cpp(34): warning C4554: '|': 연산자 우선 순위에 오류가 있는지 확인하세요. 괄호를 사용하여 우선 순위를 명확하게 지정하세요.
+  SubIsoMap.cpp
+  timeManager.cpp
+c:\users\msh66\downloads\api_framework_17_1아이소메트릭and타일\api_framework_17_1아이소메트릭and타일\timemanager.cpp(54): error C2664: 'BOOL TextOutW(HDC,int,int,LPCWSTR,int)': 인수 4을(를) 'char [256]'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+  c:\users\msh66\downloads\api_framework_17_1아이소메트릭and타일\api_framework_17_1아이소메트릭and타일\timemanager.cpp(54): note: 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+c:\users\msh66\downloads\api_framework_17_1아이소메트릭and타일\api_framework_17_1아이소메트릭and타일\timemanager.cpp(58): error C2664: 'BOOL TextOutW(HDC,int,int,LPCWSTR,int)': 인수 4을(를) 'char [256]'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+  c:\users\msh66\downloads\api_framework_17_1아이소메트릭and타일\api_framework_17_1아이소메트릭and타일\timemanager.cpp(58): note: 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+c:\users\msh66\downloads\api_framework_17_1아이소메트릭and타일\api_framework_17_1아이소메트릭and타일\timemanager.cpp(61): error C2664: 'BOOL TextOutW(HDC,int,int,LPCWSTR,int)': 인수 4을(를) 'char [256]'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+  c:\users\msh66\downloads\api_framework_17_1아이소메트릭and타일\api_framework_17_1아이소메트릭and타일\timemanager.cpp(61): note: 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+  timer.cpp
+c:\users\msh66\downloads\api_framework_17_1아이소메트릭and타일\api_framework_17_1아이소메트릭and타일\timer.cpp(101): error C2664: 'int wsprintfW(LPWSTR,LPCWSTR,...)': 인수 1을(를) 'char *'에서 'LPWSTR'(으)로 변환할 수 없습니다.
+  c:\users\msh66\downloads\api_framework_17_1아이소메트릭and타일\api_framework_17_1아이소메트릭and타일\timer.cpp(101): note: 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+  txtData.cpp
+c:\users\msh66\downloads\api_framework_17_1아이소메트릭and타일\api_framework_17_1아이소메트릭and타일\txtdata.cpp(28): error C2664: 'HANDLE CreateFileW(LPCWSTR,DWORD,DWORD,LPSECURITY_ATTRIBUTES,DWORD,DWORD,HANDLE)': 인수 1을(를) 'char *'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+  c:\users\msh66\downloads\api_framework_17_1아이소메트릭and타일\api_framework_17_1아이소메트릭and타일\txtdata.cpp(35): note: 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+c:\users\msh66\downloads\api_framework_17_1아이소메트릭and타일\api_framework_17_1아이소메트릭and타일\txtdata.cpp(65): error C2664: 'HANDLE CreateFileW(LPCWSTR,DWORD,DWORD,LPSECURITY_ATTRIBUTES,DWORD,DWORD,HANDLE)': 인수 1을(를) 'char *'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+  c:\users\msh66\downloads\api_framework_17_1아이소메트릭and타일\api_framework_17_1아이소메트릭and타일\txtdata.cpp(72): note: 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+c:\users\msh66\downloads\api_framework_17_1아이소메트릭and타일\api_framework_17_1아이소메트릭and타일\txtdata.cpp(82): error C2440: '초기화 중': 'const char [2]'에서 'char *'(으)로 변환할 수 없습니다.
+  c:\users\msh66\downloads\api_framework_17_1아이소메트릭and타일\api_framework_17_1아이소메트릭and타일\txtdata.cpp(82): note: 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+  utils.cpp
+c:\users\msh66\downloads\api_framework_17_1아이소메트릭and타일\api_framework_17_1아이소메트릭and타일\utils.cpp(27): warning C4305: '-=': 'double'에서 'float'(으)로 잘립니다.
+  Window.cpp
+c:\users\msh66\downloads\api_framework_17_1아이소메트릭and타일\api_framework_17_1아이소메트릭and타일\window.cpp(26): error C2664: 'HWND CreateWindowExW(DWORD,LPCWSTR,LPCWSTR,DWORD,int,int,int,int,HWND,HMENU,HINSTANCE,LPVOID)': 인수 2을(를) 'const char [7]'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+  c:\users\msh66\downloads\api_framework_17_1아이소메트릭and타일\api_framework_17_1아이소메트릭and타일\window.cpp(29): note: 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+c:\users\msh66\downloads\api_framework_17_1아이소메트릭and타일\api_framework_17_1아이소메트릭and타일\window.cpp(30): error C2664: 'HWND CreateWindowExW(DWORD,LPCWSTR,LPCWSTR,DWORD,int,int,int,int,HWND,HMENU,HINSTANCE,LPVOID)': 인수 2을(를) 'const char [7]'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+  c:\users\msh66\downloads\api_framework_17_1아이소메트릭and타일\api_framework_17_1아이소메트릭and타일\window.cpp(33): note: 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+c:\users\msh66\downloads\api_framework_17_1아이소메트릭and타일\api_framework_17_1아이소메트릭and타일\window.cpp(34): error C2664: 'HWND CreateWindowExW(DWORD,LPCWSTR,LPCWSTR,DWORD,int,int,int,int,HWND,HMENU,HINSTANCE,LPVOID)': 인수 2을(를) 'const char [7]'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+  c:\users\msh66\downloads\api_framework_17_1아이소메트릭and타일\api_framework_17_1아이소메트릭and타일\window.cpp(37): note: 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+c:\users\msh66\downloads\api_framework_17_1아이소메트릭and타일\api_framework_17_1아이소메트릭and타일\window.cpp(38): error C2664: 'HWND CreateWindowExW(DWORD,LPCWSTR,LPCWSTR,DWORD,int,int,int,int,HWND,HMENU,HINSTANCE,LPVOID)': 인수 2을(를) 'const char [7]'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+  c:\users\msh66\downloads\api_framework_17_1아이소메트릭and타일\api_framework_17_1아이소메트릭and타일\window.cpp(41): note: 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+c:\users\msh66\downloads\api_framework_17_1아이소메트릭and타일\api_framework_17_1아이소메트릭and타일\window.cpp(42): error C2664: 'HWND CreateWindowExW(DWORD,LPCWSTR,LPCWSTR,DWORD,int,int,int,int,HWND,HMENU,HINSTANCE,LPVOID)': 인수 2을(를) 'const char [7]'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+  c:\users\msh66\downloads\api_framework_17_1아이소메트릭and타일\api_framework_17_1아이소메트릭and타일\window.cpp(45): note: 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+c:\users\msh66\downloads\api_framework_17_1아이소메트릭and타일\api_framework_17_1아이소메트릭and타일\window.cpp(46): error C2664: 'HWND CreateWindowExW(DWORD,LPCWSTR,LPCWSTR,DWORD,int,int,int,int,HWND,HMENU,HINSTANCE,LPVOID)': 인수 2을(를) 'const char [7]'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+  c:\users\msh66\downloads\api_framework_17_1아이소메트릭and타일\api_framework_17_1아이소메트릭and타일\window.cpp(49): note: 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+c:\users\msh66\downloads\api_framework_17_1아이소메트릭and타일\api_framework_17_1아이소메트릭and타일\window.cpp(50): error C2664: 'HWND CreateWindowExW(DWORD,LPCWSTR,LPCWSTR,DWORD,int,int,int,int,HWND,HMENU,HINSTANCE,LPVOID)': 인수 2을(를) 'const char [7]'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+  c:\users\msh66\downloads\api_framework_17_1아이소메트릭and타일\api_framework_17_1아이소메트릭and타일\window.cpp(53): note: 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+c:\users\msh66\downloads\api_framework_17_1아이소메트릭and타일\api_framework_17_1아이소메트릭and타일\window.cpp(54): error C2664: 'HWND CreateWindowExW(DWORD,LPCWSTR,LPCWSTR,DWORD,int,int,int,int,HWND,HMENU,HINSTANCE,LPVOID)': 인수 2을(를) 'const char [7]'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+  c:\users\msh66\downloads\api_framework_17_1아이소메트릭and타일\api_framework_17_1아이소메트릭and타일\window.cpp(57): note: 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+c:\users\msh66\downloads\api_framework_17_1아이소메트릭and타일\api_framework_17_1아이소메트릭and타일\window.cpp(139): warning C4065: switch문에 'default'가 있으나 'case' 레이블이 없습니다.
+c:\users\msh66\downloads\api_framework_17_1아이소메트릭and타일\api_framework_17_1아이소메트릭and타일\window.cpp(172): error C2440: '=': 'const char [4]'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+  c:\users\msh66\downloads\api_framework_17_1아이소메트릭and타일\api_framework_17_1아이소메트릭and타일\window.cpp(172): note: 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+c:\users\msh66\downloads\api_framework_17_1아이소메트릭and타일\api_framework_17_1아이소메트릭and타일\window.cpp(194): error C2664: 'HWND CreateWindowExW(DWORD,LPCWSTR,LPCWSTR,DWORD,int,int,int,int,HWND,HMENU,HINSTANCE,LPVOID)': 인수 2을(를) 'const char [4]'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+  c:\users\msh66\downloads\api_framework_17_1아이소메트릭and타일\api_framework_17_1아이소메트릭and타일\window.cpp(196): note: 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+  winMain.cpp
+c:\users\msh66\downloads\api_framework_17_1아이소메트릭and타일\api_framework_17_1아이소메트릭and타일\winmain.cpp(153): warning C4244: 'return': 'WPARAM'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다...

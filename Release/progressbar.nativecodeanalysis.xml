@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\msh66\desktop\디아블로\작업\_오류작업</FILEPATH>
+      <FILENAME>progressbar.cpp</FILENAME>
+      <LINE>3</LINE>
+      <COLUMN>13</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'progressBar::_width' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>progressBar::{ctor}</FUNCTION>
+    <DECORATED>??0progressBar@@QAE@XZ</DECORATED>
+    <FUNCLINE>3</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\msh66\desktop\디아블로\작업\_오류작업</FILEPATH>
+      <FILENAME>progressbar.cpp</FILENAME>
+      <LINE>3</LINE>
+      <COLUMN>13</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'progressBar::_progressBarFront' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>progressBar::{ctor}</FUNCTION>
+    <DECORATED>??0progressBar@@QAE@XZ</DECORATED>
+    <FUNCLINE>3</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\msh66\desktop\디아블로\작업\_오류작업</FILEPATH>
+      <FILENAME>progressbar.cpp</FILENAME>
+      <LINE>3</LINE>
+      <COLUMN>13</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'progressBar::_y' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>progressBar::{ctor}</FUNCTION>
+    <DECORATED>??0progressBar@@QAE@XZ</DECORATED>
+    <FUNCLINE>3</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\msh66\desktop\디아블로\작업\_오류작업</FILEPATH>
+      <FILENAME>progressbar.cpp</FILENAME>
+      <LINE>3</LINE>
+      <COLUMN>13</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'progressBar::_x' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>progressBar::{ctor}</FUNCTION>
+    <DECORATED>??0progressBar@@QAE@XZ</DECORATED>
+    <FUNCLINE>3</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\msh66\desktop\디아블로\작업\_오류작업</FILEPATH>
+      <FILENAME>progressbar.cpp</FILENAME>
+      <LINE>3</LINE>
+      <COLUMN>13</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'progressBar::_progressBarBack' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>progressBar::{ctor}</FUNCTION>
+    <DECORATED>??0progressBar@@QAE@XZ</DECORATED>
+    <FUNCLINE>3</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\msh66\desktop\디아블로\작업\_오류작업</FILEPATH>
+      <FILENAME>progressbar.cpp</FILENAME>
+      <LINE>3</LINE>
+      <COLUMN>13</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'progressBar::_rcProgress' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>progressBar::{ctor}</FUNCTION>
+    <DECORATED>??0progressBar@@QAE@XZ</DECORATED>
+    <FUNCLINE>3</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

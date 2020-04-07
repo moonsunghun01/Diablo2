@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\msh66\desktop\디아블로\작업\_오류작업</FILEPATH>
+      <FILENAME>randomfunction.h</FILENAME>
+      <LINE>8</LINE>
+      <COLUMN>20</COLUMN>
+    </SFA>
+    <DEFECTCODE>28159</DEFECTCODE>
+    <DESCRIPTION>'GetTickCount64'을(를) 'GetTickCount' 대신 사용하십시오. 이유: GetTickCount overflows roughly every 49 days.  Code that does not take that into account can loop indefinitely.  GetTickCount64 operates on 64 bit values and does not have that problem</DESCRIPTION>
+    <FUNCTION>randomFunction::{ctor}</FUNCTION>
+    <DECORATED>??0randomFunction@@QAE@XZ</DECORATED>
+    <FUNCLINE>6</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

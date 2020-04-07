@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\msh66\desktop\디아블로\작업\_오류작업</FILEPATH>
+      <FILENAME>animation.cpp</FILENAME>
+      <LINE>5</LINE>
+      <COLUMN>11</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'animation::_frameUpdateSec' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>animation::{ctor}</FUNCTION>
+    <DECORATED>??0animation@@QAE@XZ</DECORATED>
+    <FUNCLINE>5</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\msh66\desktop\디아블로\작업\_오류작업</FILEPATH>
+      <FILENAME>animation.cpp</FILENAME>
+      <LINE>162</LINE>
+      <COLUMN>3</COLUMN>
+    </SFA>
+    <DEFECTCODE>6293</DEFECTCODE>
+    <DESCRIPTION>for 루프가 잘못 정의되었습니다.  최소값부터 아래로 계산됩니다.</DESCRIPTION>
+    <FUNCTION>animation::setPlayFrame</FUNCTION>
+    <DECORATED>?setPlayFrame@animation@@QAEXHH_N0@Z</DECORATED>
+    <FUNCLINE>114</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\msh66\desktop\디아블로\작업\_오류작업</FILEPATH>
+      <FILENAME>animation.cpp</FILENAME>
+      <LINE>193</LINE>
+      <COLUMN>4</COLUMN>
+    </SFA>
+    <DEFECTCODE>6293</DEFECTCODE>
+    <DESCRIPTION>for 루프가 잘못 정의되었습니다.  최소값부터 아래로 계산됩니다.</DESCRIPTION>
+    <FUNCTION>animation::setPlayFrame</FUNCTION>
+    <DECORATED>?setPlayFrame@animation@@QAEXHH_N0@Z</DECORATED>
+    <FUNCLINE>114</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>
